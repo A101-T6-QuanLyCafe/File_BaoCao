@@ -1,0 +1,19 @@
+xin chào! bạn có thể giới thiệu về quán cafe của bạn không"
+  quán có những loại cà phê nào phổ biến nhất"
+  giá cả ở quán của bạn như thế nào"
+  quán có wifi không"
+  quán có không gian làm việc không
+  thời gian mở cửa của quán là khi nào
+  quán có phục vụ đồ ăn không
+  có chương trình khuyến mãi hoặc ưu đãi đặc biệt nào không
+  quán có chỗ đậu xe không
+  nếu có vấn đề về đơn hàng, khách hàng có thể liên hệ như thế nào
+  quán có không gian cho trẻ em không
+  quán có mở cửa vào các ngày lễ không
+  nếu tôi có ý kiến hoặc phản hồi, tôi có thể chia sẻ ở đâu
+  các nhân viên của quán có thân thiện và nhiệt tình không
+  có các loại đồ uống không chứa caffeine không?
+  bạn có cung cấp các loại đồ uống nóng và lạnh không?
+  các phương thức thanh toán nào được chấp nhận tại quán?
+  bạn có cung cấp cà phê mang đi không?
+  tên quán cafe bạn?
